@@ -24,6 +24,7 @@ location /api/ {
 在Nginx遇到/api/字符串后自动会将/api/替换成https://www.runoob.com/
 启动Nginx服务器，进行测试，即可得到开发环境一致的效果
 
+这是本人的一个测试，顺便在这里测试项目的上传，还有很多坑要走，一定要坚持下去！
 # happy
 
 > A Vue.js project
